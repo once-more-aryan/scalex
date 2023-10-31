@@ -1,0 +1,42 @@
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    color: white;
+}
+iframe{
+    
+    height: 80vh;
+    width: 80vw;
+}
+
+
+.button1{
+    
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #059669;
+    border-radius: 8px;
+    text-decoration: none;
+    
+    
+}
+
+.button1:hover{
+    transition-duration: 0.4s;
+    background-color: #2ad8a1;
+    color: black;
+    border: none;
+    
+
+}
+
+.buttonbox{
+    margin: 25px;
+}
